@@ -16,7 +16,7 @@
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |`필수`| :white_large_square: |4| [Infra](Infra) | [Linux 머신 구하기](Infra/Linux-머신-구하기) | |
-|`필수`| :white_large_square: |4| [웹](웹) | [Vue CLI 프로젝트 기반 DevOps 개발환경 실습](웹/Vue-CLI-프로젝트-기반-DevOps-개발환경-실습) | |
+|`필수`| :white_check_mark: |4| [웹](웹) | [Vue CLI 프로젝트 기반 DevOps 개발환경 실습](웹/Vue-CLI-프로젝트-기반-DevOps-개발환경-실습) | |
 |선택| :white_large_square: |8| [Frontend 기술](Frontend기술) | [React로 만드는 Tic Tac Toe](Frontend기술/React로-만드는-Tic-Tac-Toe) | |
 |선택| :white_large_square: |8| [Infra](Infra) | [Dockerlize Project](Infra/Dockerlize-Project) | |
 |선택| :white_large_square: |8| [블록체인 암호화](블록체인-암호화) | [블록체인 기본 개념 구현 및 해쉬의 이해](블록체인-암호화/블록체인-기본-개념-구현-및-해쉬의-이해) | |
