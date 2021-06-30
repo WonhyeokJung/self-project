@@ -14,8 +14,8 @@
 -
 
 ## 참고자료
--
--
+- https://www.atlassian.com/ko/software/jira/guides
+- https://taes-k.github.io/2019/12/07/sw-jira-scrum/
 
 ## 과제제출
 - [기본과제](기본과제)
