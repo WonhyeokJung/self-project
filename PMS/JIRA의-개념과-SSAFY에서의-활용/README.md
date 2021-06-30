@@ -5,9 +5,17 @@
 - 
 - 
 
-## 소주제1
--
--
+## 등장 개념
+- filters
+- dashboard
+- board
+- backlog
+- issue
+  - task
+    - subtask
+  - story
+  - bug
+- 
 
 ## 소주제2
 -
