@@ -101,7 +101,7 @@
 
 
 
-### GitHub Actions workflow를 이요한 배포 자동화
+### GitHub Actions workflow를 이용한 배포 자동화
 
 - Github는 현재 개발자와 DevOps 엔지니어 팀이 신속하게 어플리케이션을 빌드하고 배포할 수 있도록 지원하고 있음.
 - GitHub Actions는 GitHub의 소프트웨어 개발 Workflow에서 작업을 자동화하기 위한 Package Script
