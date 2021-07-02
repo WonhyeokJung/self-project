@@ -14,3 +14,9 @@ r = requests.post('http://13.125.222.176/quiz/jordan', data= json.dumps({
 # .text / .headers 등도 사용 가능 아무것도 안붙이면 <Response(200)>의 형태로 반환.
 
 print(r)
+
+'''
+cUrl을 활용한 방식
+
+curl --header "Content-Type: application/json" --header "Accept: application/json" --request POST --data '{"nickname": "seoul2WonHyeokJung", "yourAnswer": "19"}' http://13.125.222.176/quiz/alpha
+'''
