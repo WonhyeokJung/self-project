@@ -165,7 +165,7 @@
     http://restapi.example.com/sports/soccer
     ```
 
-  - sport는 **collection**, soccer는 **document**
+  - sports는 **collection**, soccer는 **document**
 
   - **Collection**은 복수명사임에 유의
 
@@ -195,6 +195,8 @@
 
 - https://meetup.toast.com/posts/92
 - https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
+- https://sticky32.tistory.com/entry/Restful-REST-API-Design
+- 
 
 ## 과제제출
 - [기본과제](기본과제)
