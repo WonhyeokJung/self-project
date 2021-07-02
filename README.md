@@ -6,7 +6,7 @@
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |`필수` | :white_check_mark: |8| [SSAFY 기본](SSAFY기본) | [1학기와 2학기의 차이](SSAFY기본/1학기와-2학기의-차이) | |
-|선택| :white_large_square: |8| [Infra](Infra) | [자바스크립트에서 Firebase 활용하기](Infra/자바스크립트에서-Firebase-활용하기) | |
+|선택| :white_check_mark: |8| [Infra](Infra) | [자바스크립트에서 Firebase 활용하기](Infra/자바스크립트에서-Firebase-활용하기) | 계속 오류가 나서 수정하면서 쭉 **진행중**입니다. 주말에 해서라도 꼭 마무리 짓겠습니다. |
 |선택| :white_check_mark: |8| [네트워크](네트워크) | [SSAFY 스무고개 with REST](네트워크/SSAFY-스무고개-with-REST) | |
 |선택| :white_large_square: |8| [최적화](최적화) | [웹 어플리케이션 캐시 적용](최적화/웹-어플리케이션-캐시-적용) | |
 
@@ -17,8 +17,8 @@
 | ------ | ------ | ------ | ------ | ------ | ------ |
 |`필수`| :white_check_mark: |4| [Infra](Infra) | [Linux 머신 구하기](Infra/Linux-머신-구하기) | |
 |`필수`| :white_check_mark: |4| [웹](웹) | [Vue CLI 프로젝트 기반 DevOps 개발환경 실습](웹/Vue-CLI-프로젝트-기반-DevOps-개발환경-실습) | |
-|선택| :white_large_square: |8| [Frontend 기술](Frontend기술) | [React로 만드는 Tic Tac Toe](Frontend기술/React로-만드는-Tic-Tac-Toe) | |
-|선택| :white_large_square: |8| [Infra](Infra) | [Dockerlize Project](Infra/Dockerlize-Project) | |
+|선택| :white_check_mark: |8| [Frontend 기술](Frontend기술) | [React로 만드는 Tic Tac Toe](Frontend기술/React로-만드는-Tic-Tac-Toe) | |
+|선택| :white_check_mark: |8| [Infra](Infra) | [Dockerlize Project](Infra/Dockerlize-Project) | 젠킨스 실습과 같이 해보고 있습니다. |
 |선택| :white_large_square: |8| [블록체인 암호화](블록체인-암호화) | [블록체인 기본 개념 구현 및 해쉬의 이해](블록체인-암호화/블록체인-기본-개념-구현-및-해쉬의-이해) | |
 
 ---
@@ -36,8 +36,8 @@
 ### [4일차](2021-07-01.md)
 |구분|진행상태|학습시간|분야|과제명|비고|
 | ------ | ------ | ------ | ------ | ------ | ------ |
-|`필수`| :white_large_square: |4| [Infra](Infra) | [Jenkins + docker를 활용한 CI/CD구축](Infra/Jenkins-docker를-활용한-CI-CD구축) | |
-|`필수`| :white_large_square: |4| [부하테스트](부하테스트) | [Jmeter를 이용한 웹페이지 성능 측정](부하테스트/Jmeter를-이용한-웹페이지-성능-측정) | |
+|`필수`| :white_check_mark: |4| [Infra](Infra) | [Jenkins + docker를 활용한 CI/CD구축](Infra/Jenkins-docker를-활용한-CI-CD구축) | 계속 build가 되지 않아 수정하면서 계속 **진행중**입니다. 주말에 해서라도 꼭 마무리 짓겠습니다. |
+|`필수`| :white_check_mark: |4| [부하테스트](부하테스트) | [Jmeter를 이용한 웹페이지 성능 측정](부하테스트/Jmeter를-이용한-웹페이지-성능-측정) | |
 |선택| :white_large_square: |8| [DB](DB) | [관계형 데이터베이스 이해](DB/관계형-데이터베이스-이해) | |
 |선택| :white_large_square: |8| [DB](DB) | [DB설계, ERD 작성 실습](DB/DB설계-ERD-작성-실습) | |
 |선택| :white_large_square: |8| [웹](웹) | [코딩 테스트 채점 서버 만들기](웹/코딩-테스트-채점-서버-만들기) | |
